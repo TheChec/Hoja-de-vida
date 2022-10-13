@@ -66,14 +66,13 @@
 
 }
 .Contenedor2-1{
-    background-image: url(/Imagenes/Experiencia.jpg);
+    background-image: url(../Imagenes/Experiencia.jpg);
 }
 .Contenedor2-2{
-    background-image: url(/Imagenes/Estudios.jpg);
+    background-image: url(../Imagenes/Estudios.jpg);
 }
 .Contenedor2-3{
-    filter: url(Participacion.jpg) (0.4) drop-shadow(0 0 0 #002B5B);
-    background-image:url(/Imagenes/Participacion.jpg);
+    background-image:url(../Imagenes/Participacion.jpg);
 }
 .Contenedor2-1,.Contenedor2-2, .Contenedor2-3{
     border-radius: 23px;
