@@ -172,7 +172,8 @@
     flex-flow: row wrap;
     padding-left:18%;
     padding-top: 1%;
-    height: 150px;
+    min-height: 150px;
+    height: 210px;
     margin-top: 2%;
 }
 .Separador3{
@@ -216,7 +217,9 @@ a{
     font-weight: bolder;
 }
 
-
+.Olota{
+    margin-bottom: -10px;
+}
 
 
 
