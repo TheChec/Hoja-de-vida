@@ -6,24 +6,23 @@
 
 .ContenedorInfo{
     position: absolute;
-    display: flexbox;
-    height: 30%;
+    width: 50%;
     left: 5%;
     top: 5%;
     right: 30%;
+    margin-right: 10%;
 
     font-family: 'Open Sans';
     font-style: normal;
-    font-weight: 40%;
-    font-size: 140%;
+    font-size: 130%;
     line-height: 41px;
-    color:  white;
+    color:  rgb(255, 255, 255);
    
 }
+
+
 .Foto{
     position: absolute;
-    display: flexbox;
-    
     right: 10%;
     height: 50%;
     left: 68%;
@@ -40,7 +39,7 @@
     display:inline-block;
     border-radius: 30px;
     padding: 1% 1%;
-    margin-top: 15%;
+    margin-top: 11%;
     margin-left:10%;
     background-color: #002B5B;
 
@@ -170,10 +169,9 @@
     background-color: #256D85;
     display: flex;
     flex-flow: row wrap;
-    padding-left:18%;
+    padding-left:14%;
     padding-top: 1%;
     min-height: 150px;
-    height: 210px;
     margin-top: 2%;
 }
 .Separador3{
@@ -187,7 +185,7 @@
     color: white;
 }
 .ContaTit2{
-    margin-left:10%;
+    margin: 1%;
     width: 250px;
 }
 
